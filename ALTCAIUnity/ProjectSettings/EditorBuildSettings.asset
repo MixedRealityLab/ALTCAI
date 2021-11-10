@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/ALTCAI/Scenes/ALTCAI.unity
+    guid: 5803134442009bd4b9b2f83b98b9fbd8
+  - enabled: 1
+    path: Assets/ALTCAI/Scenes/ALTCAI_Participant_Interface.unity
+    guid: fe764fc9c2ae84963956579bd8acd66d
+  - enabled: 0
+    path: Assets/ALTCAI/Scenes/ALTCAI_WoZ_Interface_1.unity
+    guid: a249a562fe2b14d20945c17c56557576
+  - enabled: 0
+    path: Assets/ALTCAI/Scenes/ALTCAI_WoZ_Interface_2.unity
+    guid: 674e16b968c894a64ad207ab71e4aeac
+  m_configObjects: {}

@@ -1,1 +1,11 @@
-ALTCAIUnity/ToIgnore/
+/ALTCAIUnity/ToIgnore/
+/ALTCAIUnity/Library/
+/ALTCAIUnity/Temp/
+/ALTCAIUnity/Build/
+/ALTCAIUnity/Builds/
+/ALTCAIUnity/Logs/
+/ALTCAIUnity/UserSettings/
+/ALTCAIUnity/UnityPackageManager/
+/ALTCAIUnity/obj/
+/ALTCAIUnity/Assets/
+/._.gitignore
